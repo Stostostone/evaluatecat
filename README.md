@@ -1,5 +1,5 @@
-# evaluatecat
-A simple java cat evaluating programm. Practising work.
+# Scorecat
+A simple java cat score programm. Just Practising work.
 ----------------------------------------------------------------
 ## version 1.0.0
 ----------------------------------------------------------------
